@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Emoji Galaga",
+      "hasCanvas": true,
+      "bodyTextLen": 251,
+      "bodyTextHash": "9feeea8706879bdfe4da82fe1e2ddfe587431e0fae827b8ff8080767c3f491cb",
+      "bodyTextPrefix": "SOUND ON 1981 ARCADE EMOJI GALAGA A formation shooter rebuilt en",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Emoji Galaga",
+      "hasCanvas": true,
+      "bodyTextLen": 251,
+      "bodyTextHash": "9feeea8706879bdfe4da82fe1e2ddfe587431e0fae827b8ff8080767c3f491cb",
+      "bodyTextPrefix": "SOUND ON 1981 ARCADE EMOJI GALAGA A formation shooter rebuilt en",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
